@@ -38,6 +38,7 @@ module.exports = {
       "import/prefer-default-export": "off",
       "react/jsx-props-no-spreading": "off",
       "react/prop-types": "off",
+      "@typescript-eslint/camelcase": "off",
       "@typescript-eslint/explicit-function-return-type": [
         "error",
         {
